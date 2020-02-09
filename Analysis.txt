@@ -1,0 +1,23 @@
+Seasonality:
+    AGE:
+    Usage rates of younger riders increase dramatically during the summer whereas older riders' usage grows, but at a smaller rate. 
+    The usage rate of older riders has less variance from July to December so they are less affected by weather differences.
+    TIME OF DAY:
+    The usage patterns depending on the time of day have a very similar shape across seasons. The mornings and evenings are when 
+    the biggest differences between July and December exist, presumably due to daylight. In the mornings ridership rates start picking
+    up earlier and faster in July than December, with a very big difference at 8AM, which is a peak time in both months. In the evening,
+    ridership starts decreasing at around the same time (6PM) in both months. The biggest difference in ridership between months occurs between 
+    5PM and 6PM where there are between 2.69 and 2.9 times more riders in the July compared to December.
+    POPULAR STATIONS BY SEASON:
+    The most popular stations are located near the areas that have the highest population as well as certain train stations. Weather conditions
+    presumably make some routes less attractive to ride in the winter than in the summer. The top 10 most popular starting stations change 
+    significantly, but rather mostly shuffle around.
+
+Trip Length:
+    AGE/GENDER/USERTYPE:
+        Younger users both male and female have longer average trip durations. At around age 24, average trip duration drops for both genders 
+        and normalizes to around 15 minutes very slowly decreases till 80. Customers  have much longer average trip lengths than Subscribers do. 
+        There is very little variance in trip length across age for Subscribers, with users at most ages falling within a range of 11-14 minutes.
+        For Customers, many of the most popular stations are located in areas that are less densely populated. For Subscribers, very few stations
+        have significantly higher usage outside of a few stations that are not located in Manhattan.
+
